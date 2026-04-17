@@ -9,3 +9,4 @@ console.log(add)
 //type error
 //let age  = 25
 //console.log(age. to string().toUpperCase())
+// adding comment to test git push
